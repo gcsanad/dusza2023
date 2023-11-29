@@ -1,0 +1,15 @@
+V:\DuszaKozos\DuszaKozos\bin\Debug\net6.0\DuszaKozos.exe
+V:\DuszaKozos\DuszaKozos\bin\Debug\net6.0\DuszaKozos.deps.json
+V:\DuszaKozos\DuszaKozos\bin\Debug\net6.0\DuszaKozos.runtimeconfig.json
+V:\DuszaKozos\DuszaKozos\bin\Debug\net6.0\DuszaKozos.dll
+V:\DuszaKozos\DuszaKozos\bin\Debug\net6.0\DuszaKozos.pdb
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\DuszaKozos.csproj.AssemblyReference.cache
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\DuszaKozos.GeneratedMSBuildEditorConfig.editorconfig
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\DuszaKozos.AssemblyInfoInputs.cache
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\DuszaKozos.AssemblyInfo.cs
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\DuszaKozos.csproj.CoreCompileInputs.cache
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\DuszaKozos.dll
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\refint\DuszaKozos.dll
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\DuszaKozos.pdb
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\DuszaKozos.genruntimeconfig.cache
+V:\DuszaKozos\DuszaKozos\obj\Debug\net6.0\ref\DuszaKozos.dll
